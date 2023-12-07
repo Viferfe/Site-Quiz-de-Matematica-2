@@ -6,6 +6,6 @@ function addUser() {
     localStorage.setItem("player1_name_input", player1_name);
     localStorage.setItem("player2_name_input", player2_name);
 
-    window.location = "game_login.html";
+    window.location = "index.html";
 }
 
